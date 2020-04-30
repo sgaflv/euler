@@ -1,2 +1,2 @@
 # euler
-Tasks from projecteuler.net solved in Rust
+Tasks from [projecteuler.net](https://projecteuler.net/) solved in Rust
