@@ -19,8 +19,13 @@ pub mod solve17;
 pub mod solve18;
 pub mod solve19;
 pub mod solve20;
+pub mod solve21;
+pub mod solve22;
+pub mod solve23;
+pub mod solve24;
+pub mod solve25;
 pub mod solve67;
 
 fn main() {
-    println!("{}", solve20::solve20());
+    println!("{}", solve25::solve25());
 }
